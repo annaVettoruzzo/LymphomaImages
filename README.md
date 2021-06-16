@@ -11,6 +11,12 @@ and perform the final classification with good fidelity, despite the increase in
 This model outperforms the traditional Machine Learning approaches reaching an accuracy higher than 97%,
 despite the higher computational burden.
 
+Code files:
+- demo.py is a short demo to load the dataset in the selected color space, normalize it, load a pre-trained model and evaluate its performance;
+- train.py is the complete code to load and process the dataset, fit the model selected and evaluate its performance.
+- function.py contains all the additional functions used in the main code.
+
 Participants:
 - Anna Vettoruzzo
 - Giulia Rizzoli
+
